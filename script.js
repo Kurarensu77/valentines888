@@ -4,17 +4,17 @@ const note = document.getElementById("note");
 const actions = document.querySelector(".actions");
 
 const sweetMessages = [
-  "Yay! I can't wait for our date 💖",
-  "Best. Valentine. Ever! 💘",
-  "You just made my whole day! 🥰",
-  "Forever my favorite person 💕",
+  "Top G sends you his 💖",
+  "We should defo Link.. everyday 💘",
+  "Cute Smile Bro 🥰",
+  "Pookie 💕",
 ];
 
 const playfulNoMessages = [
-  "Nope! Catch me if you can 😜",
+  "Ur choosing the wrong option! 😜",
   "No button escaped!",
-  "Try again, cutie!",
-  "Too slow, love!",
+  "Think twice.....Is there a better option?",
+  "Too slow lol",
 ];
 
 const noImg = [ "noimg0", "noimg1", "noimg2", "noimg3" ];
